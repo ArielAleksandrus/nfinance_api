@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  term: MyString
+  pattern_type: MyString
+  main_tag: MyString
+  sec_tag: MyString
+  thir_tag: MyString
+  score: 1
+  status: MyString
+
+two:
+  term: MyString
+  pattern_type: MyString
+  main_tag: MyString
+  sec_tag: MyString
+  thir_tag: MyString
+  score: 1
+  status: MyString

@@ -1,0 +1,2 @@
+class Storetag < ApplicationRecord
+end
