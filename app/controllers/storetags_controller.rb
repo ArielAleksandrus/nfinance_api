@@ -46,6 +46,6 @@ class StoretagsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def storetag_params
-      params.require(:storetag).permit(:term, :pattern_type, :main_tag, :sec_tag, :thir_tag, :score, :status)
+      params.require(:storetag).permit(:term, :pattern_type, :main_tag, :sec_tag, :thir_tag)
     end
 end
